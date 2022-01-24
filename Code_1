@@ -1,0 +1,13 @@
+using System;
+namespace ocrilchic
+{
+  class Program
+  {
+    
+    static void Main(string[] args)
+    {
+      Console.WriteLine("I'm Грызлов Максим, and I'm not a monkey");
+      Console.ReadLine();
+     }
+   }
+ }
